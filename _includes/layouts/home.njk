@@ -1,5 +1,7 @@
 ---
-layout: layouts/base.njk
-templateClass: tmpl-home
+#layout: layouts/base.njk
+templateClass: home
 ---
-{{ content | safe }}
+{% extends "layouts/base.njk" %}
+{% block titleBlock %}
+{% endblock %}

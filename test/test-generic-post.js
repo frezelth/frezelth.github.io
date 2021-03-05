@@ -124,7 +124,7 @@ describe("check build output for a generic post", () => {
       expect(select("article time", "datetime")).to.equal("2018-05-01");
     });
 
-    it("should link to twitter with noopener", () => {
+    /*it("should link to twitter with noopener", () => {
       const twitterLinks = Array.from(doc.querySelectorAll("a")).filter((a) =>
         a.href.startsWith("https://twitter.com")
       );
@@ -132,7 +132,7 @@ describe("check build output for a generic post", () => {
         expect(a.rel).to.contain("noopener");
         expect(a.target).to.equal("_blank");
       }
-    });
+    });*/
 
     describe("body", () => {
       it("should have images", () => {

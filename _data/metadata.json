@@ -1,10 +1,10 @@
 {
-  "title": "Thomas Frezel.",
-  "url": "https://frezelth.github.io/",
+  "title": "thomasfrezel",
+  "url": "https://frezelth.github.io",
   "domain": "frezelth.github.io",
   "description": "Hi, I'm a French Java developer based in Brussels. Father of 2. When I'm not coding I run, play tennis or listen to pop music.",
   "genre": "https://schema.org/Blog",
-  "googleAnalyticsId": "G-CF73JLZENJ",
+  "googleAnalyticsId": "UA-10375492-5",
   "sendWebVitals": true,
   "feed": {
     "subtitle": "Thomas Frezel. Blog.",
