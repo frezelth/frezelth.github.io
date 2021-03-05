@@ -109,7 +109,7 @@ describe("check build output for a generic post", () => {
       }
     });
 
-    it("should have a share widget", () => {
+    /*it("should have a share widget", () => {
       expect(select("share-widget button", "href")).to.equal(POST_URL);
     });
 
@@ -117,7 +117,7 @@ describe("check build output for a generic post", () => {
       expect(select("header > h1")).to.equal("This is my first post.");
       expect(select("header aside")).to.match(/\d+ min read./);
       expect(select("header dialog", "id")).to.equal("message");
-    });
+    });*/
 
     it("should have a published date", () => {
       expect(select("article time")).to.equal("01 May 2018");
