@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Thomas Frezel.</title>
+	<title>thomasfrezel</title>
 	<subtitle>Thomas Frezel. Blog.</subtitle>
 	
 	<link href="https://frezelth.github.io/feed/feed.xml" rel="self"/>
-	<link href="https://frezelth.github.io/"/>
+	<link href="https://frezelth.github.io"/>
 	<updated>2018-09-30T00:00:00-00:00</updated>
 	<id>https://frezelth.github.io</id>
 	<author>
@@ -28,7 +28,7 @@
 			
 				
 				
-				&lt;img src=&quot;https://frezelth.github.io//.netlify/functions/ga?v=1&amp;_v=j83&amp;t=pageview&amp;dr=https%3A%2F%2Frss-feed-reader.com&amp;_s=1&amp;dh=frezelth.github.io&amp;dp=%2Fposts%2Ffirstpost%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=This%20is%20my%20first%20post.&amp;tid=G-CF73JLZENJ&quot; width=&quot;1&quot; height=&quot;1&quot; style=&quot;display:none&quot; alt=&quot;&quot;&gt;
+				&lt;img src=&quot;https://frezelth.github.io/.netlify/functions/ga?v=1&amp;_v=j83&amp;t=pageview&amp;dr=https%3A%2F%2Frss-feed-reader.com&amp;_s=1&amp;dh=frezelth.github.io&amp;dp=%2Fposts%2Ffirstpost%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=This%20is%20my%20first%20post.&amp;tid=UA-10375492-5&quot; width=&quot;1&quot; height=&quot;1&quot; style=&quot;display:none&quot; alt=&quot;&quot;&gt;
 			
 		</content>
 	</entry>
@@ -53,7 +53,7 @@
 			
 				
 				
-				&lt;img src=&quot;https://frezelth.github.io//.netlify/functions/ga?v=1&amp;_v=j83&amp;t=pageview&amp;dr=https%3A%2F%2Frss-feed-reader.com&amp;_s=1&amp;dh=frezelth.github.io&amp;dp=%2Fposts%2Fsecondpost%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=This%20is%20my%20second%20post.&amp;tid=G-CF73JLZENJ&quot; width=&quot;1&quot; height=&quot;1&quot; style=&quot;display:none&quot; alt=&quot;&quot;&gt;
+				&lt;img src=&quot;https://frezelth.github.io/.netlify/functions/ga?v=1&amp;_v=j83&amp;t=pageview&amp;dr=https%3A%2F%2Frss-feed-reader.com&amp;_s=1&amp;dh=frezelth.github.io&amp;dp=%2Fposts%2Fsecondpost%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=This%20is%20my%20second%20post.&amp;tid=UA-10375492-5&quot; width=&quot;1&quot; height=&quot;1&quot; style=&quot;display:none&quot; alt=&quot;&quot;&gt;
 			
 		</content>
 	</entry>
@@ -73,7 +73,7 @@
 			
 				
 				
-				&lt;img src=&quot;https://frezelth.github.io//.netlify/functions/ga?v=1&amp;_v=j83&amp;t=pageview&amp;dr=https%3A%2F%2Frss-feed-reader.com&amp;_s=1&amp;dh=frezelth.github.io&amp;dp=%2Fposts%2Fthirdpost%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=This%20is%20my%20third%20post.&amp;tid=G-CF73JLZENJ&quot; width=&quot;1&quot; height=&quot;1&quot; style=&quot;display:none&quot; alt=&quot;&quot;&gt;
+				&lt;img src=&quot;https://frezelth.github.io/.netlify/functions/ga?v=1&amp;_v=j83&amp;t=pageview&amp;dr=https%3A%2F%2Frss-feed-reader.com&amp;_s=1&amp;dh=frezelth.github.io&amp;dp=%2Fposts%2Fthirdpost%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=This%20is%20my%20third%20post.&amp;tid=UA-10375492-5&quot; width=&quot;1&quot; height=&quot;1&quot; style=&quot;display:none&quot; alt=&quot;&quot;&gt;
 			
 		</content>
 	</entry>
@@ -93,7 +93,7 @@
 			
 				
 				
-				&lt;img src=&quot;https://frezelth.github.io//.netlify/functions/ga?v=1&amp;_v=j83&amp;t=pageview&amp;dr=https%3A%2F%2Frss-feed-reader.com&amp;_s=1&amp;dh=frezelth.github.io&amp;dp=%2Fposts%2Ffourthpost%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=This%20is%20my%20fourth%20post.&amp;tid=G-CF73JLZENJ&quot; width=&quot;1&quot; height=&quot;1&quot; style=&quot;display:none&quot; alt=&quot;&quot;&gt;
+				&lt;img src=&quot;https://frezelth.github.io/.netlify/functions/ga?v=1&amp;_v=j83&amp;t=pageview&amp;dr=https%3A%2F%2Frss-feed-reader.com&amp;_s=1&amp;dh=frezelth.github.io&amp;dp=%2Fposts%2Ffourthpost%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=This%20is%20my%20fourth%20post.&amp;tid=UA-10375492-5&quot; width=&quot;1&quot; height=&quot;1&quot; style=&quot;display:none&quot; alt=&quot;&quot;&gt;
 			
 		</content>
 	</entry>

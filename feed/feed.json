@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "Thomas Frezel.",
-  "home_page_url": "https://frezelth.github.io/",
+  "title": "thomasfrezel",
+  "home_page_url": "https://frezelth.github.io",
   "feed_url": "https://update-me.com/feed/feed.json",
   "description": "Hi, I&#39;m a French Java developer based in Brussels. Father of 2. When I&#39;m not coding I run, play tennis or listen to pop music.",
   "author": {
